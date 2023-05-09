@@ -1,15 +1,11 @@
 ### Olá! Eu sou Julio César ✊🏾
 
-![JulionBR GitHub stats](https://github-readme-stats.vercel.app/api?username=JulionBR&show_icons=true&theme=transparent)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulionBR&layout=compact&theme=transparent)](https://github.com/JulionBR/JulionBR)-->
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionbr/)
+![JulionBR GitHub stats](https://github-readme-stats.vercel.app/api?username=JulionBR&show_icons=true&theme=tokyonight)
 
 ## Tecnologia que uso no meu dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulionBR&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div><br/>
+## Redes sócias  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionbr/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947743784?text=Ol%C3%A1+Julio+C%C3%A9sar%2C+achei+seu+WhatsApp+no+Github%21%21%21)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/75WuBxhk1ja1sP4RctJzlD?si=29c4a805a3564c37)
